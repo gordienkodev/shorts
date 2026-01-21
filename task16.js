@@ -14,10 +14,20 @@ setTimeout(function(){
 
 console.log(6)
 
-const foo2 = () => {
-	console.log('foo2');
-	
-		setTimeout(foo2);
-}
 
-foo2();
+
+// const foo1 = () => {
+// 	console.log('foo1');
+	
+// 	return Promise.resolve().then(foo1);
+// }
+
+// foo1();
+
+// const foo2 = () => {
+// 	console.log('foo2');
+	
+// 		setTimeout(foo2);
+// }
+
+// foo2();
