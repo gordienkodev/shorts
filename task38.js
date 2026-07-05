@@ -10,8 +10,10 @@ function wrapper() {
     console.log(`wrapper ${value}`);
 
     showValue();
-    
     var value = 3;
 }
 
 wrapper();
+
+// wrapper undefined
+// showValue 2
