@@ -1,7 +1,7 @@
 function greet(greeting) {
     setTimeout(function() {
         console.log(`${greeting} ${this.firstName} ${this.lastName}`);
-    }.bind(this), 100);
+    }, 100);
 }
 
 let user = {
