@@ -42,7 +42,7 @@
 | [Task29 (код)](./tasks/task29.js) | Рекурсивная фильтрация объекта (Zecurion) | [посмотреть решение](https://www.youtube.com/shorts/LB8Rvwi7r5Y) |
 | [Task30 (код)](./tasks/task30.js) | Ссылки на значения в массиве (КитМед KitMed) | [посмотреть решение](https://www.youtube.com/shorts/mbO5WbIbI1s) |
 | [Task31 (код)](./tasks/task31.js) | Event loop с `queueMicrotask`, `Promise` и timers (КитМед KitMed) | [посмотреть решение](https://www.youtube.com/shorts/sSk8yPWXrcU) |
-| [Task32!!!!!!! (код)](./tasks/task32.js) | Особенности `JSON.stringify` | [посмотреть решение](https://www.youtube.com/shorts/TDmJft7Wde0) |
+| [Task32 (код)](./tasks/task32.js) | Контекст `this` при вызове метода объекта (HolyWeb) | [посмотреть решение](https://) |
 | [Task33 (код)](./tasks/task33.js) | Порядок рендера React-компонентов | [посмотреть решение](https://www.youtube.com/shorts/J1WiVxZtjCc) |
 | [Task34 (код)](./tasks/task34.js) | Цепочка `Promise.then` и `setTimeout`(Рутуб Rutube) | [посмотреть решение](https://www.youtube.com/shorts/eXV3vRRDCZg) |
 | [Task35 (код)](./tasks/task35.js) | Бесконечный цикл и блокировка event loop (Рутуб Rutube) | [посмотреть решение](https://www.youtube.com/shorts/_8mJPnVBRog) |

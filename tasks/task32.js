@@ -1,14 +1,20 @@
-JSON.stringify(undefined);      
-// undefined
-JSON.stringify(function(){});  
-// undefined
 
-JSON.stringify(
-  [1, undefined, function(){}, 4]
-);
-// "[1,null,null,4]"
 
-JSON.stringify(
-  { a: 2, b: function(){} }
-);
-// '{"a":2}'
+
+const obj1 = {
+    name: "Alice",
+    sayName: function () {
+        console.log(this.name);
+    }
+};
+
+const obj2 = {
+    name: "John",
+    sayName: obj1.sayName
+};
+
+const sayName = obj1.sayName;
+
+obj1.sayName();
+obj2.sayName();
+sayName();
