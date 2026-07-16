@@ -1,5 +1,5 @@
 var foo = 1;
-function bar() { //foo = underfind    
+function bar() {   
   if (!foo) {
     var foo = 10;
   }
