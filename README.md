@@ -60,6 +60,7 @@
 | [Task47 (код)](./tasks/task47.js) | Очередность microtasks и timers (Evercode) | [посмотреть решение](https://www.youtube.com/shorts/L4flAzeZGZM) |
 | [Task48 (код)](./tasks/task48.js) | Глубокое копирование через JSON (Evapps) | [посмотреть решение](https://www.youtube.com/shorts/aqej_1YDR_0) |
 | [Task49 (код)](./tasks/task49.js) | Деструктуризация объекта и массива (Evapps) | [посмотреть решение](https://www.youtube.com/shorts/fkdwfByJelE) |
+| [Task50 (код)](./tasks/task50.js) | `this` в `setTimeout`, `call` и `bind` (EPAM) | [посмотреть решение](https://) |
 
 
 
