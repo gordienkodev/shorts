@@ -20,7 +20,7 @@
 | [Task7 (код)](./tasks/task7.js) | Поиск пропущенного числа (банк) | [посмотреть решение](https://www.youtube.com/shorts/HSmwMr6v8Og) |
 | [Task8 (код)](./tasks/task8/) | Центрирование блока в CSS | [посмотреть решение](https://youtube.com/shorts/tR9ySwNOIxg) |
 | [Task9 (код)](./tasks/task9.js) | Своя реализация `map` | [посмотреть решение](https://www.youtube.com/shorts/Z8nC2CB6qfA) |
-| [!!!!!!Task10 (код)](./tasks/task10.js) | Максимальная площадь прямоугольного участка | [посмотреть решение](https://) | 
+| [Task10 (код)](./tasks/task10.js) | Порядок выполнения `Promise.then` и `setTimeout` (HolyWeb) | [посмотреть решение](https://) | 
 | [Task11 (код)](./tasks/task11.js) | React `useState` и замыкание в обработчике | [посмотреть решение](https://www.youtube.com/shorts/DUZO0bVa-Uk) |
 | [Task12 (код)](./tasks/task12.js) | React список покупок и добавление элемента | [посмотреть решение](https://www.youtube.com/shorts/JzgxPvsEtIc) |
 | [Task13 (код)](./tasks/task13.js) | Передача объекта и примитива в функцию | [посмотреть решение](https://www.youtube.com/shorts/-g-EhKbiBJo) |
