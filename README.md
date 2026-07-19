@@ -20,7 +20,7 @@
 | [Task7 (код)](./tasks/task7.js) | Поиск пропущенного числа (банк) | [посмотреть решение](https://www.youtube.com/shorts/HSmwMr6v8Og) |
 | [Task8 (код)](./tasks/task8/) | Центрирование блока в CSS | [посмотреть решение](https://youtube.com/shorts/tR9ySwNOIxg) |
 | [Task9 (код)](./tasks/task9.js) | Своя реализация `map` | [посмотреть решение](https://www.youtube.com/shorts/Z8nC2CB6qfA) |
-| [Task10 (код)](./tasks/task10.js) | Порядок выполнения `Promise.then` и `setTimeout` (HolyWeb) | [посмотреть решение](https://) | 
+| [Task10 (код)](./tasks/task10.js) | Порядок выполнения `Promise.then` и `setTimeout` (HolyWeb) | [посмотреть решение](https://www.youtube.com/shorts/sFd0hLuNlyk) | 
 | [Task11 (код)](./tasks/task11.js) | React `useState` и замыкание в обработчике | [посмотреть решение](https://www.youtube.com/shorts/DUZO0bVa-Uk) |
 | [Task12 (код)](./tasks/task12.js) | React список покупок и добавление элемента | [посмотреть решение](https://www.youtube.com/shorts/JzgxPvsEtIc) |
 | [Task13 (код)](./tasks/task13.js) | Передача объекта и примитива в функцию | [посмотреть решение](https://www.youtube.com/shorts/-g-EhKbiBJo) |
@@ -60,7 +60,7 @@
 | [Task47 (код)](./tasks/task47.js) | Очередность microtasks и timers (Evercode) | [посмотреть решение](https://www.youtube.com/shorts/L4flAzeZGZM) |
 | [Task48 (код)](./tasks/task48.js) | Глубокое копирование через JSON (Evapps) | [посмотреть решение](https://www.youtube.com/shorts/aqej_1YDR_0) |
 | [Task49 (код)](./tasks/task49.js) | Деструктуризация объекта и массива (Evapps) | [посмотреть решение](https://www.youtube.com/shorts/fkdwfByJelE) |
-| [Task50 (код)](./tasks/task50.js) | `this` в `setTimeout`, `call` и `bind` (EPAM) | [посмотреть решение](https://) |
+| [Task50 (код)](./tasks/task50.js) | `this` в `setTimeout`, `call` и `bind` (EPAM) | [посмотреть решение](https://www.youtube.com/shorts/7KCtyguzIW8) |
 
 
 
