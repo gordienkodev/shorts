@@ -29,7 +29,7 @@
 | [Task16 (код)](./tasks/task16.js) | Очередность `setTimeout`, `Promise` и синхронного кода (ТБАНК) | [посмотреть решение](https://www.youtube.com/shorts/NU7Wf4JThCM) |
 | [Task17 (код)](./tasks/task17.js) | Метод `greet` для строки (СБЕРБАНК) | [посмотреть решение](https://www.youtube.com/shorts/vGIKUmQvg24) |
 | [Task18 (код)](./tasks/task18.js) | TDZ, `Promise` и порядок ошибок (СБЕРБАНК) | [посмотреть решение](https://www.youtube.com/shorts/DmtBRF_PzFo) |
-| [Task19 (код)](./tasks/task19.js) | `this` в стрелочных и обычных методах (ТОЧКА Банк) | [посмотреть решение](https://www.youtube.com/shorts/r8yZR9zltuw) |
+| [Task19 (код)](./tasks/task19.js) | `this` в стрелочных и обычных методах (ТОЧКА Банк) | [посмотреть решение](https://www.youtube.com/shorts/gXNnoB60YVo) |
 | [Task20 (код)](./tasks/task20.js) | Бесконечные macrotask и microtask циклы (ТОЧКА Банк) | [посмотреть решение](https://www.youtube.com/shorts/CNduQZu07iE) |
 | [Task21 (код)](./tasks/task21.tsx) | React часы на функциональном компоненте (ТОЧКА Банк) | [посмотреть решение](https://www.youtube.com/shorts/wF2N0KfWhAw) |
 | [Task22 (код)](./tasks/task22.js) | Изменение примитива и свойства объекта (ENJOY PRO) | [посмотреть решение](https://www.youtube.com/shorts/tt_43cwsrjo) |
