@@ -11,7 +11,7 @@
 
 | Задача | Краткое название | Решение |
 | --- | --- | --- |
-| [Task1 (код)](./tasks/task1.js) | Поднятие `var` и область видимости (на 380к) | [посмотреть решение](https://www.youtube.com/shorts/0fStKNQnC7o) |
+| [Task1 (код)](./tasks/task1.js) | Поднятие `var` и область видимости (на 380к) | [посмотреть решение](https://www.youtube.com/shorts/cxP_8c3ZlAA) |
 | [Task2 (код)](./tasks/task2.js) | Восстановление маршрута по билетам (бигтех) | [посмотреть решение](https://www.youtube.com/shorts/mI5muR0ACO8) |
 | [Task3 (код)](./tasks/task3.js) | Функциональные арифметические выражения (бигтех) | [посмотреть решение](https://www.youtube.com/shorts/4VOkj4FuD4g) |
 | [Task4 (код)](./tasks/task4.js) | Сжатие массива чисел в диапазоны | [посмотреть решение](https://www.youtube.com/shorts/QK2akLlu2Ik) |
@@ -42,7 +42,7 @@
 | [Task29 (код)](./tasks/task29.js) | Рекурсивная фильтрация объекта (Zecurion) | [посмотреть решение](https://www.youtube.com/shorts/LB8Rvwi7r5Y) |
 | [Task30 (код)](./tasks/task30.js) | Ссылки на значения в массиве (КитМед KitMed) | [посмотреть решение](https://www.youtube.com/shorts/mbO5WbIbI1s) |
 | [Task31 (код)](./tasks/task31.js) | Event loop с `queueMicrotask`, `Promise` и timers (КитМед KitMed) | [посмотреть решение](https://www.youtube.com/shorts/sSk8yPWXrcU) |
-| [Task32 (код)](./tasks/task32.js) | Контекст `this` при вызове метода объекта (HolyWeb) | [посмотреть решение](https://) |
+| [Task32 (код)](./tasks/task32.js) | Контекст `this` при вызове метода объекта (HolyWeb) | [посмотреть решение](https://www.youtube.com/shorts/PbhJoSFcaCI) |
 | [Task33 (код)](./tasks/task33.js) | Порядок рендера React-компонентов | [посмотреть решение](https://www.youtube.com/shorts/J1WiVxZtjCc) |
 | [Task34 (код)](./tasks/task34.js) | Цепочка `Promise.then` и `setTimeout`(Рутуб Rutube) | [посмотреть решение](https://www.youtube.com/shorts/eXV3vRRDCZg) |
 | [Task35 (код)](./tasks/task35.js) | Бесконечный цикл и блокировка event loop (Рутуб Rutube) | [посмотреть решение](https://www.youtube.com/shorts/_8mJPnVBRog) |
