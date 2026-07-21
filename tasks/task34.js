@@ -21,9 +21,4 @@ promise.then(() => {
 
 console.log('initial flow');
 
-// promise baz
-// initial flow
-// promise foo
-// promise fez
-// promise bar
-// timeout 0
+// 

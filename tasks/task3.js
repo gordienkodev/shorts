@@ -15,7 +15,7 @@ const minus = (x) => (y) => y - x;
 const times = (x) => (y) => y * x;
 const dividedBy = (x) => (y) => Math.floor(y / x);
 
-console.log(five(plus(one()))); // Outputs: 6
-console.log(seven(minus(two()))); // Outputs: 5
+console.log(five(plus(one()))); 
+console.log(seven(minus(two()))); 
 console.log(five(minus(seven(plus(one())))));
-// 5 - (1 + 7) Outputs: -3
+

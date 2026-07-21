@@ -42,11 +42,4 @@ Promise.race([
 
 console.log(++i, "After promise");
 
-// 1 taskOne() run
-// 2 taskOne() promise callback run
-// 3 taskTwo() run
-// 4 taskTwo() promise callback run
-// 5 taskTwo() timeout end
-// 6 After promise
-// 7 Result Task Two
-// 8 taskOne() timeout end
+// 

@@ -14,4 +14,4 @@ function foo() {
     }
 }
 
-// Uncaught SyntaxError: Identifier 'b' has already been declared
+// 

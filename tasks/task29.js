@@ -31,9 +31,3 @@ function filter(obj, fn) {
 
 console.log(filter(json, iter));
 
-// {
-//   a: 1,
-//   c: {
-//     e: 5
-//   }
-// }

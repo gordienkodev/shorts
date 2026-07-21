@@ -15,5 +15,4 @@ function wrapper() {
 
 wrapper();
 
-// wrapper undefined
-// showValue 2
+// 

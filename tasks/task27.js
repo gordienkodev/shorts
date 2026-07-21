@@ -7,7 +7,7 @@ function f(n) {
 }
 
 f(n);
-console.log(n); // 1
+console.log(n); // 
 
 
 
@@ -19,7 +19,7 @@ function f(o) {
 }
 
 f(obj);
-console.log(obj); // {a: 5}
+console.log(obj); // 
 
 
 
@@ -31,7 +31,7 @@ function f(o) {
 }
 
 f(obj);
-console.log(obj); // { a: 1 }
+console.log(obj); // 
 
 
 
@@ -43,4 +43,4 @@ function f(o) {
 }
 
 f(obj);
-console.log(obj); // { a: 1 }
+console.log(obj); // 

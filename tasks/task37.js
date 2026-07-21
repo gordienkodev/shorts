@@ -13,7 +13,4 @@ function l() {
 
 l(); 
 
-// undefined
-// 5
-// undefined
-// 10
+// 

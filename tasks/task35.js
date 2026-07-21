@@ -35,9 +35,4 @@ while (true) {
   console.log('finish');
 }
 
-// start
-// promise baz
-// finish
-// start
-// promise baz
-// finish
+// 
