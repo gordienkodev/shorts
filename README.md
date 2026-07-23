@@ -62,7 +62,7 @@
 | [Task49 (код)](./tasks/task49.js) | Деструктуризация объекта и массива (Evapps) | [посмотреть решение](https://www.youtube.com/shorts/fkdwfByJelE) |
 | [Task50 (код)](./tasks/task50.js) | `this` в `setTimeout`, `call` и `bind` (EPAM) | [посмотреть решение](https://www.youtube.com/shorts/7KCtyguzIW8) |
 | [Task51 (код)](./tasks/task51.js) | Стрелочная функция, `this` и `bind` (VK) | [посмотреть решение](https://www.youtube.com/shorts/-ah51poOTMU) |
-| [Task52 (код)](./tasks/task52.js) | Обработка ошибки в `Promise.catch` и следующий `then` (VK) | [посмотреть решение](https://) |
+| [Task52 (код)](./tasks/task52.js) | Обработка ошибки в `Promise.catch` и следующий `then` (VK) | [посмотреть решение](https://www.youtube.com/shorts/VC43Z1_6Xn0) |
 
 
 
