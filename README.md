@@ -65,6 +65,7 @@
 | [Task51 (код)](./tasks/task51.js) | Стрелочная функция, `this` и `bind` (VK) | [посмотреть решение](https://www.youtube.com/shorts/-ah51poOTMU) |
 | [Task52 (код)](./tasks/task52.js) | Обработка ошибки в `Promise.catch` и следующий `then` (VK) | [посмотреть решение](https://www.youtube.com/shorts/VC43Z1_6Xn0) |
 | [Task53 (код)](./tasks/task53.js) | Наследование классов и переопределение метода через `super` (VK) | [посмотреть решение](https://www.youtube.com/shorts/gMKZajoQbl0) |
+| [Task54 (код)](./tasks/task54.js) | Сравнение строк с числом в условии цикла (TYMY) | [посмотреть решение](https://www.youtube.com/shorts/6kycJ_KTbzg) |
 
 
 
