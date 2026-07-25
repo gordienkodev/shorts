@@ -58,7 +58,7 @@
 | [Task44 (код)](./tasks/task44.js) | `Promise.race` и блокирующий синхронный код (SNAP IT) | [посмотреть решение](https://www.youtube.com/shorts/1ntKvnuJw3I) |
 | [Task45 (код)](./tasks/task45.js) | Стрелочная функция и лексический `this` (Garage Eight) | [посмотреть решение](https://www.youtube.com/shorts/bOjPAlJnqWg) |
 | [Task46 (код)](./tasks/task46.js) | `var` в цикле и отложенные callbacks (Garage Eight) | [посмотреть решение](https://www.youtube.com/shorts/PJLwj4tGukQ) |
-| [Task47 (код)](./tasks/task47.js) | Очередность microtasks и timers (Evercode) | [посмотреть решение](https://www.youtube.com/shorts/L4flAzeZGZM) |
+| [Task47 (код)](./tasks/task47.js) | Очередность microtasks и timers (Evercode) | [посмотреть решение](https://www.youtube.com/shorts/3-kxHn9Ayfs) |
 | [Task48 (код)](./tasks/task48.js) | Глубокое копирование через JSON (Evapps) | [посмотреть решение](https://www.youtube.com/shorts/aqej_1YDR_0) |
 | [Task49 (код)](./tasks/task49.js) | Деструктуризация объекта и массива (Evapps) | [посмотреть решение](https://www.youtube.com/shorts/3czEDjG1f6k) |
 | [Task50 (код)](./tasks/task50.js) | `this` в `setTimeout`, `call` и `bind` (EPAM) | [посмотреть решение](https://www.youtube.com/shorts/7KCtyguzIW8) |
