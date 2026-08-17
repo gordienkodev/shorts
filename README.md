@@ -68,7 +68,8 @@
 | [Task54 (код)](./tasks/task54.js) | Сравнение строк с числом в условии цикла (TYMY) | [посмотреть решение](https://www.youtube.com/shorts/6kycJ_KTbzg) |
 | [Task55 (код)](./tasks/task55.js) | Вызов переопределённого метода из конструктора и `super` (Enjoy pro) | [посмотреть решение](https://www.youtube.com/shorts/vqfKWQcUJHw) |
 | [Task56 (код)](./tasks/task56.js) | Параллельное выполнение `async` задач через `Promise.all` (от кадрового агентства BWG) | [посмотреть решение](https://www.youtube.com/shorts/gcGpZ_NaKtU) |
-| [Task57 (код)](./tasks/task57.js) | Изменение вывода `console.log` без изменения `const` | [посмотреть решение](https://www.youtube.com/shorts/gcGpZ_NaKtU) |
+| [Task57 (код)](./tasks/task57.js) | Изменение вывода `console.log` без изменения `const` | [посмотреть решение](https://youtube.com/shorts/mCQeIUyb7Jk) |
+| [Task58 (код)](./tasks/task58.js) | Лексическая область видимости функции и `var` (Selecty) | [посмотреть решение](https://youtube.com/shorts/zdZ5FWEdzW4) |
 
 
 
