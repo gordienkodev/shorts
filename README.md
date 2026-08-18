@@ -70,6 +70,7 @@
 | [Task56 (код)](./tasks/task56.js) | Параллельное выполнение `async` задач через `Promise.all` (от кадрового агентства BWG) | [посмотреть решение](https://www.youtube.com/shorts/gcGpZ_NaKtU) |
 | [Task57 (код)](./tasks/task57.js) | Изменение вывода `console.log` без изменения `const` | [посмотреть решение](https://youtube.com/shorts/mCQeIUyb7Jk) |
 | [Task58 (код)](./tasks/task58.js) | Лексическая область видимости функции и `var` (Selecty) | [посмотреть решение](https://youtube.com/shorts/zdZ5FWEdzW4) |
+| [Task59 (код)](./tasks/task59.js) | Контекст `this` в методе, `bind` и стрелочной функции (Selecty) | [посмотреть решение](https://youtube.com/shorts/kx977jEaP2U) |
 
 
 
