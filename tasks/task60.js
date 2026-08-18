@@ -17,11 +17,3 @@ new Promise((resolve, reject) => {
   .then(() => console.log('promise4')); //
 
 console.log('final'); //
-
-// start
-// promise constructor
-// final
-// promise1
-// promise3
-// promise4
-// timeout
