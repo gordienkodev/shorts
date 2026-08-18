@@ -72,6 +72,7 @@
 | [Task58 (код)](./tasks/task58.js) | Лексическая область видимости функции и `var` (Selecty) | [посмотреть решение](https://youtube.com/shorts/zdZ5FWEdzW4) |
 | [Task59 (код)](./tasks/task59.js) | Контекст `this` в методе, `bind` и стрелочной функции (Selecty) | [посмотреть решение](https://youtube.com/shorts/kx977jEaP2U) |
 | [Task60 (код)](./tasks/task60.js) | Event loop: `Promise.reject`, `catch`, `then` и `setTimeout` (Selecty) | [посмотреть решение](https://youtube.com/shorts/KBxwHqhUezA) |
+| [Task61 (код)](./tasks/task61.js) | Очередность выполнения `async/await` и синхронного кода (Selecty) | [посмотреть решение](https://youtube.com/shorts/lBld3u9l6-s) |
 
 
 
