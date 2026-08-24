@@ -75,6 +75,7 @@
 | [Task61 (код)](./tasks/task61.js) | Очередность выполнения `async/await` и синхронного кода (Selecty) | [посмотреть решение](https://youtube.com/shorts/lBld3u9l6-s) |
 | [Task62 (код)](./tasks/task62.js) | Поверхностное копирование массива и ссылки на объекты (The Tribe / STARTRIBE LTD) | [посмотреть решение](https://youtube.com/shorts/AlyRB-yvZyo) |
 | [Task63 (код)](./tasks/task63.js) | Объекты как ключи в обычном объекте и `Map` (The Tribe / STARTRIBE LTD) | [посмотреть решение](https://youtube.com/shorts/bSyKZl4IJMg) |
+| [Task64 (код)](./tasks/task64.js) | Event loop: `Promise.then`, timers и microtasks внутри таймера (Сфера) | [посмотреть решение](https://youtube.com/shorts/4-sFrroV0ew) |
 
 
 
