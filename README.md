@@ -76,6 +76,7 @@
 | [Task62 (код)](./tasks/task62.js) | Поверхностное копирование массива и ссылки на объекты (The Tribe / STARTRIBE LTD) | [посмотреть решение](https://youtube.com/shorts/AlyRB-yvZyo) |
 | [Task63 (код)](./tasks/task63.js) | Объекты как ключи в обычном объекте и `Map` (The Tribe / STARTRIBE LTD) | [посмотреть решение](https://youtube.com/shorts/bSyKZl4IJMg) |
 | [Task64 (код)](./tasks/task64.js) | Event loop: `Promise.then`, timers и microtasks внутри таймера (Сфера) | [посмотреть решение](https://youtube.com/shorts/4-sFrroV0ew) |
+| [Task65 (код)](./tasks/task65.tsx) | Ошибки в React `useEffect`: async, зависимости и очистка listener (ADV) | [посмотреть решение](https://www.youtube.com/shorts/AtWmO0y1Z0k) |
 
 
 
@@ -87,3 +88,5 @@ JSON за 60 секунд - все что нужно для собеседова
 Почему JavaScript врёт с числами - [посмотреть](https://www.youtube.com/shorts/nZjgPO8I7Nk) 
 
 Особенности `JSON.stringify` - [посмотреть](https://www.youtube.com/shorts/TDmJft7Wde0)
+
+Как пользоваться AI и не сливать деньги - [посмотреть](https://www.youtube.com/shorts/8K5g9z2Ra5I) 
