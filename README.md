@@ -77,6 +77,7 @@
 | [Task63 (код)](./tasks/task63.js) | Объекты как ключи в обычном объекте и `Map` (The Tribe / STARTRIBE LTD) | [посмотреть решение](https://youtube.com/shorts/bSyKZl4IJMg) |
 | [Task64 (код)](./tasks/task64.js) | Event loop: `Promise.then`, timers и microtasks внутри таймера (Сфера) | [посмотреть решение](https://youtube.com/shorts/4-sFrroV0ew) |
 | [Task65 (код)](./tasks/task65.tsx) | Ошибки в React `useEffect`: async, зависимости и очистка listener (ADV) | [посмотреть решение](https://www.youtube.com/shorts/AtWmO0y1Z0k) |
+| [Task66 (код)](./tasks/task66.js) | Event loop: `setInterval`, timers и цепочки `Promise.then` (ADV) | [посмотреть решение](https://youtube.com/shorts/ZpsvkLWxqTE) |
 
 
 
