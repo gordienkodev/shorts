@@ -92,5 +92,3 @@ JSON за 60 секунд - все что нужно для собеседова
 Почему JavaScript врёт с числами - [посмотреть](https://www.youtube.com/shorts/nZjgPO8I7Nk) 
 
 Особенности `JSON.stringify` - [посмотреть](https://www.youtube.com/shorts/TDmJft7Wde0)
-
-Как пользоваться AI и не сливать деньги - [посмотреть](https://www.youtube.com/shorts/8K5g9z2Ra5I) 
