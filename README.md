@@ -79,6 +79,8 @@
 | [Task65 (код)](./tasks/task65.tsx) | Ошибки в React `useEffect`: async, зависимости и очистка listener (ADV) | [посмотреть решение](https://www.youtube.com/shorts/AtWmO0y1Z0k) |
 | [Task66 (код)](./tasks/task66.js) | Event loop: `setInterval`, timers и цепочки `Promise.then` (ADV) | [посмотреть решение](https://youtube.com/shorts/ZpsvkLWxqTE) |
 | [Task67 (код)](./tasks/task67.ts) | TypeScript generics и безопасный доступ к свойству через `keyof` (Altenar) | [посмотреть решение](https://youtube.com/shorts/Ws5RZq-lPhM) |
+| [Task68 (код)](./tasks/task68.js) | `JSON.stringify`: функции, `undefined`, `null` и ошибка с `BigInt` (Астон) | [посмотреть решение](https://youtube.com/shorts/Ws5RZq-lPhM) |
+| [Task69 (код)](./tasks/task69.ts) | TypeScript declaration merging и конфликт свойств интерфейса (Altenar) | [посмотреть решение](https://www.youtube.com/shorts/CghXWKgBor8) |
 
 
 
