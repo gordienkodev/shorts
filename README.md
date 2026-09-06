@@ -8,6 +8,7 @@
 | React Live Coding с реального собеседования — найдёшь все ошибки? | [посмотреть разбор](https://boosty.to/frontendbaza/posts/a9060ca9-beca-42ce-bb3a-6fabcc39658f) |
 | Лайвкодинг с реального собеседования в Evapps | [посмотреть разбор](https://boosty.to/frontendbaza/posts/fce4967b-49b7-4b50-8325-325991f89258) |
 | Лайвкодинг с реального собеседования по React в EPAM | [посмотреть разбор](https://boosty.to/frontendbaza/posts/b6e3fa18-97ea-49d3-abd1-22c43f1a7d9f) |
+| Задача с собеседования в МТС: рефакторим React-код до Senior-уровня | [посмотреть разбор](https://boosty.to/frontendbaza/posts/270db9e3-2240-4e93-a168-428fe028fc1e) |
 
 Каталог коротких задач и разборов с реальных собеседований
 
