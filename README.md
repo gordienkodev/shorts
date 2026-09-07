@@ -87,6 +87,7 @@
 | [Task71 (код)](./tasks/task71.ts) | Исправление generic-функции с ограничением по свойству name в TypeScript (Altenar) | [посмотреть решение](https://youtube.com/shorts/4mFSn6v__k0) |
 | [Task72 (код)](./tasks/task72.js) | Порядок выполнения Promise и setTimeout в event loop JavaScript (IT-One) | [посмотреть решение](https://www.youtube.com/shorts/_PCIchYxRao) |
 | [Task73 (код)](./tasks/task73.ts) | Типобезопасный доступ к свойствам объекта через keyof в TypeScript (IT-One) | [посмотреть решение](https://youtube.com/shorts/Z0AlFaGU5hs) |
+| [Task74 (код)](./tasks/task74.tsx) | Пять кликов и stale closure в отложенном setState React (IT-One) | [посмотреть решение](https://youtube.com/) |
 
 
 
