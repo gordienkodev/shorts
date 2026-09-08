@@ -89,6 +89,7 @@
 | [Task73 (код)](./tasks/task73.ts) | Типобезопасный доступ к свойствам объекта через keyof в TypeScript (IT-One) | [посмотреть решение](https://youtube.com/shorts/Z0AlFaGU5hs) |
 | [Task74 (код)](./tasks/task74.tsx) | Пять кликов и stale closure в отложенном setState React (IT-One) | [посмотреть решение](https://youtube.com/shorts/Foik11V3ih0) |
 | [Task75 (код)](./tasks/task75.tsx) | Ленивая инициализация состояния в useState React (IT-One) | [посмотреть решение](https://youtube.com/shorts/dA1G8NhNsoY) |
+| [Task76 (код)](./tasks/task76.tsx) | Порядок выполнения render, useLayoutEffect и useEffect в React (IT-One) | [посмотреть решение](https://youtube.com/shorts/dX5aEFp2C6g) |
 
 
 
