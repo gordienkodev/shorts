@@ -88,6 +88,8 @@
 | [Task72 (код)](./tasks/task72.js) | Порядок выполнения Promise и setTimeout в event loop JavaScript (IT-One) | [посмотреть решение](https://www.youtube.com/shorts/_PCIchYxRao) |
 | [Task73 (код)](./tasks/task73.ts) | Типобезопасный доступ к свойствам объекта через keyof в TypeScript (IT-One) | [посмотреть решение](https://youtube.com/shorts/Z0AlFaGU5hs) |
 | [Task74 (код)](./tasks/task74.tsx) | Пять кликов и stale closure в отложенном setState React (IT-One) | [посмотреть решение](https://youtube.com/shorts/Foik11V3ih0) |
+| [Task75 (код)](./tasks/task75.tsx) | Ленивая инициализация состояния в useState React (IT-One) | [посмотреть решение](https://youtube.com/shorts/dA1G8NhNsoY) |
+
 
 
 
